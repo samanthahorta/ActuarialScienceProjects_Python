@@ -1,1 +1,1 @@
-# ActuarialScienceProyects
+# ActuarialScienceProjects
